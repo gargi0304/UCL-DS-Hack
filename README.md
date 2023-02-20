@@ -1,1 +1,1 @@
-# UCL-DS-Hack
+# UCL-DS-Hack, built 3 machine learning models including a Recurrent Neural Network: LTSM Model, Arima model and Prophet model in order to predict different currency rates with appropriate features for time series forecasting, worked with TensorFlow and Pandas libraries, also included additional macroeconomic parameters that can influence the fluctuation of the currency rate.
